@@ -32,6 +32,7 @@ module.exports = [
          '/notes/record/SpringBootAOP使用/',
          '/notes/record/浅析Spring中AOP的实现原理/',
          '/notes/record/Java中自定义注解的使用详解/',
+         '/notes/record/详解JS Promise和AsyncAwait/',
       ],
    },
 ];
