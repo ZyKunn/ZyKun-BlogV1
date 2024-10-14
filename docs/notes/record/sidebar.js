@@ -33,7 +33,9 @@ module.exports = [
          '/notes/record/浅析Spring中AOP的实现原理/',
          '/notes/record/Java中自定义注解的使用详解/',
          '/notes/record/详解JS-Promise和AsyncAwait/',
-         '/notes/record/node.js和npm的安装与环境配置/'
+         '/notes/record/node.js和npm的安装与环境配置/',
+         '/notes/record/安装nvm并配置环境变量/',
+         '/notes/record/SpringBoot异步线程间传递上下文/'
       ],
    },
 ];
