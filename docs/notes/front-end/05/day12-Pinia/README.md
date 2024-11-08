@@ -1,4 +1,4 @@
-# 🌰day12-Pinia
+# 🍍 day12-Pinia
 
 <hr/>
 

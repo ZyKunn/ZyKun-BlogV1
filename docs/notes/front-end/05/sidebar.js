@@ -12,6 +12,8 @@ module.exports = [
             '/notes/front-end/05/day07/',
             '/notes/front-end/05/day08-day10-智慧商城项目/',
             '/notes/front-end/05/day11-Vue3入门/',
-            '/notes/front-end/05/day12-Pinia/']
+            '/notes/front-end/05/day12-Pinia/',
+            '/notes/front-end/05/大事件管理系统/',
+        ]
     }
 ]
