@@ -12,9 +12,6 @@ module.exports = [
       '/notes/microservices/02/Redis集群/',
       '/notes/microservices/02/day05-MQ高级/',
       '/notes/microservices/02/RabbitMQ部署指南/'
-      // '/notes/microservices/02/Centos7安装Docker/',
-      // '/notes/microservices/02/RabbitMQ部署指南/',
-      // '/notes/microservices/02/安装elasticsearch/'
     ]
   }
 ]

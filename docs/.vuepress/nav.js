@@ -20,8 +20,8 @@ module.exports = [
         text: '🌋微服务',
         children: [
             {text: '实用篇', link: '/notes/microservices/01/'},
-            {text: '高级篇', link: '/notes/microservices/02/'}
-            // { text: '面试篇', link: '/notes/java/03/' }
+            {text: '高级篇', link: '/notes/microservices/02/'},
+            { text: 'Nacos', link: '/notes/microservices/nacos/' }
         ]
     },
     {text: '🍓Mysql', link: '/notes/mysql/'},
