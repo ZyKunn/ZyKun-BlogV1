@@ -22,7 +22,8 @@ module.exports = [
             {text: '实用篇', link: '/notes/microservices/01/'},
             {text: '高级篇', link: '/notes/microservices/02/'},
             {text: 'Nacos', link: '/notes/microservices/nacos/'},
-            {text: 'Spring Cloud Gateway', link: '/notes/microservices/SpringCloudGateway/'}
+            {text: 'Spring Cloud Gateway', link: '/notes/microservices/SpringCloudGateway/'},
+            {text: 'Jenkins', link: '/notes/microservices/Jenkins/'}
         ]
     },
     {text: '🍓Mysql', link: '/notes/mysql/'},
